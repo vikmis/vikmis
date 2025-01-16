@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikmis
-- 🌱 I’m currently learning Selenium with java
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on designing the architect of the automation suite and implementing new ideas into project.
 - 📫 you can reach me kumarvikashm6@gmail.com
 
